@@ -1,5 +1,5 @@
 name: Effective Programming
-title: www
+title: lightning
 markdown: redcarpet
 pygments: true
 exclude: [run.sh]
