@@ -9,13 +9,9 @@ h2. Welcome
 
 </div>
 <div class="post">
-	
-Welcome to the family of _Effective Programming_ resources.
 
-We've been inspired by the likes of "Jeff Atwood":http://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/ to start publishing our thoughts on the process of software design and development.
+Welcome to _Effective Programming's_ *Lightning Talks*
 
-Feel free to browse our websites for programming tips and then be sure to check back often for updates.
-
-&mdash;Luther
+Content soon to follow &hellip; _(lightning fast)_
 
 </div>
