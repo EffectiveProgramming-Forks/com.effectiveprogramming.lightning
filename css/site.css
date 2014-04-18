@@ -1,31 +1,31 @@
 a {
-	color: #aaff00;
+	color: #ff66aa;
 }
 
 div.title div.logo {
-	border: 1px solid #aaff00;
-	color: #aaff00;
+	border: 1px solid #ff66aa;
+	color: #ff66aa;
 }
 
 .header {
-	border-bottom: 3px solid #aaff00;
+	border-bottom: 3px solid #ff66aa;
 }
 
 .header a,
 .footer a {
-	color: #aaff00;
+	color: #ff66aa;
 }
 
 .footer {
-	border-top: 3px solid #aaff00;
+	border-top: 3px solid #ff66aa;
 }
 
 .section {	
-	border-bottom: 1px solid #aaff00;
+	border-bottom: 1px solid #ff66aa;
 }
 
 div.post {
-	border-top: 2px solid #aaff00;
+	border-top: 2px solid #ff66aa;
 }
 
 div.post a {
