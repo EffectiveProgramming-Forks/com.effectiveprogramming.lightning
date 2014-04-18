@@ -1,0 +1,5 @@
+The *Effective Programming* website!
+
+Code examples are MIT licensed. The rest of the content is my own.
+
+&copy; 2014 Luther Baker
